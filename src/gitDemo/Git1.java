@@ -5,6 +5,8 @@ public class Git1 {
         System.out.println("Hello Git");
         System.out.println("Use Git in IDEA");
         System.out.println("Hello World!!!!");
+        
+        System.out.println("modify the java code in github");
     }
 }
 
