@@ -7,6 +7,7 @@ public class Git1 {
         System.out.println("Hello World!!!!");
         
         System.out.println("modify the java code in github");
+        System.out.println("modify the java code in IDEA");
     }
 }
 
